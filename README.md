@@ -1,2 +1,10 @@
-# blinkit-sales-analysis
-Blinkit Sales Analysis analyzes sales performance using SQL. It processes, cleans, and extracts insights on total sales, average sales, item count, and ratings. The project explores fat content impact, sales by product type, store size, and trends by year and location. Includes SQL queries and a presentation summarizing key findings.
+# 📊 Blinkit Sales Analysis
+This project provides a comprehensive analysis of Blinkit's sales performance using SQL. 
+
+## 📂 Project Contents
+✅ **SQL file** with all queries  
+✅ **Presentation (PPTX)** summarizing key findings  
+
+## 🎯 Objective
+Derive valuable insights to optimize sales performance and improve decision-making through data analysis.  
+
