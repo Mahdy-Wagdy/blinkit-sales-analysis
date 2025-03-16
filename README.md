@@ -1,4 +1,4 @@
-# 📊 Blinkit Sales Analysis
+# 📊 Sales Analysis
 This project provides a comprehensive analysis of Blinkit's sales performance using SQL. 
 
 ## 📂 Project Contents
